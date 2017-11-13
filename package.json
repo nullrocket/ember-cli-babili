@@ -15,7 +15,7 @@
   "author": "Gil Pedersen <gpdev@gpost.dk>",
   "license": "BSD-2-Clause",
   "dependencies": {
-    "broccoli-babili": "^0.2.0"
+    "broccoli-babili": "https://github.com/ivanvanderbyl/broccoli-babili.git"
   },
   "engines": {
     "node": ">= 4"
